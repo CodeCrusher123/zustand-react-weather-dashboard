@@ -6,7 +6,7 @@ A production-grade, highly responsive weather forecasting and analytics web appl
 
 ### Live link
 
-[Will be available soon]()
+[Check it out](https://zustand-react-weather-dashboard.vercel.app/)
 
 ## 📸 Screenshots
 
@@ -81,7 +81,7 @@ Make sure you have [Node.js](https://nodejs.org/) and npm installed on your mach
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/CodeCrusher123/weather-dashboard.git
+   git clone https://github.com/CodeCrusher123/zustand-react-weather-dashboard.git
    ```
 
 2. **Navigate into the project directory**

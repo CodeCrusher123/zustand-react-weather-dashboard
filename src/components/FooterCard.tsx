@@ -26,7 +26,7 @@ export const FooterCard: React.FC = () => {
           <ul className="footer-links">
             <li>
               <a
-                href="https://github.com"
+                href="https://github.com/CodeCrusher123"
                 rel="noopener noreferrer"
                 target="_blank"
                 className="footer-link"
@@ -36,7 +36,7 @@ export const FooterCard: React.FC = () => {
             </li>
             <li>
               <a
-                href="http://linkedin.com"
+                href="http://www.linkedin.com/in/nilakesh-barman"
                 rel="noopener noreferrer"
                 target="_blank"
                 className="footer-link"
